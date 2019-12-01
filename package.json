@@ -1,0 +1,19 @@
+{
+  "name": "react-native-shadow-mix",
+  "version": "0.0.3",
+  "description": "Support package for iOS and Android to achieve similar shadow effects",
+  "main": "component/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Barba828/react-native-shadow-mix.git"
+  },
+  "author": "Barba Lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Barba828/react-native-shadow-mix/issues"
+  },
+  "homepage": "https://github.com/Barba828/react-native-shadow-mix#readme"
+}
