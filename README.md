@@ -1,8 +1,7 @@
 
 ### 规则
-- 1.使用SpdbShadow包裹需要阴影的组件即可，Android与iOS通用
-- 2.若传入elevation参数，则Android与iOS使用原生阴影，显示效果也一致
-- 3.若需要颜色，偏移，扩散等参数调整，则不可使用elevation参数，否则无效。因实现方式不同，但封装后使用效果Android与iOS尽量相似
+- 1.若传入elevation参数，则Android与iOS使用原生阴影，显示效果也一致
+- 2.若需要颜色，偏移，扩散等参数调整，则不可使用elevation参数，否则无效。因实现方式不同，但封装后使用效果Android与iOS尽量相似
 
 ### 用法
 - 1.安装
